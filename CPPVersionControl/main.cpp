@@ -10,5 +10,5 @@ void solution();
 
 int main() 
 {
-		greet();
+	greet();
 }
